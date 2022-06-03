@@ -1,0 +1,23 @@
+{
+  "name": "xsjs",
+  "version": "0.0.0",
+  "description": "Excess JavaScript!",
+  "main": "xs.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qaxt/xsjs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/qaxt/xsjs/issues"
+  },
+  "homepage": "https://github.com/qaxt",
+  "keywords": [
+    "qaxt",
+    "tally",
+    "multi",
+    "dimensional",
+    "array"
+  ],
+  "author": "qaxt",
+  "license": "MIT"
+}
